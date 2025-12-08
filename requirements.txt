@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+prophet
+requests
+boto3
+matplotlib 
+python-dotenv
